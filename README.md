@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sarvesh!
 
-I'm a graduate student at **Northeastern University** finishing my M.S. in Information Systems (Dec 2025). I build end-to-end data solutions — from ETL pipelines and data warehouses to BI dashboards and AI-powered analytics tools — and translate them into business insights that actually drive decisions.
+I'm a graduate of **Northeastern University** with an M.S. in Information Systems (Dec 2025). I build end-to-end data solutions — from ETL pipelines and data warehouses to BI dashboards and AI-powered analytics tools — and translate them into business insights that actually drive decisions.
 
 ---
 
